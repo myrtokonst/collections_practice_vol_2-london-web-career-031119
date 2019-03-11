@@ -32,7 +32,6 @@ new_array
 end
 
 def count_elements(array)
- new_hash = {}
   new_array = []
   array.each do |elements|
     elements.each do |key, value|
